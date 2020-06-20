@@ -1,0 +1,35 @@
+
+.crystal-general-form,
+.crystal-logo-preview{
+	display: inline-block;
+	float: left;
+}
+
+.crystal-logo-preview{
+	width: 280px;
+	padding: 20px;
+	text-align: center;
+	margin-right: 20px;
+	border: 2px solid green;
+}
+
+.crystal-logo{
+	display: block;
+	text-align: center;
+}
+
+.image-container{
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+.logo-picture{
+	height: 87px;
+	width: 282px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center center;
+	/*margin: 20px auto;
+	background-size: cover;*/
+}
